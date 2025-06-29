@@ -39,5 +39,5 @@ This project is perfect for:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/wordpress-login-ionic-angular.git
-   cd wordpress-login-ionic-angular
+   git@github.com:hasancse06/ionic-angular-wordpress-authentication.git
+   cd ionic-angular-wordpress-authentication
