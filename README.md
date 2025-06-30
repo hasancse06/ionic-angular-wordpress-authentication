@@ -60,3 +60,13 @@ This project is perfect for:
 
 **M A Hasan**  
 🌐 [https://hasan.online](https://hasan.online)
+
+
+## ⭐ Support This Project
+
+If you find this useful:
+- ⭐ Star the repository on GitHub
+- 🔗 Share it with fellow Ionic or WordPress or mobile app developers
+- 💡 Contribute with feedback or pull requests
+
+> Together, we make WordPress more mobile-friendly and developer-first 🚀
