@@ -66,7 +66,7 @@ This project is perfect for:
 
 If you find this useful:
 - ⭐ Star the repository on GitHub
-- 🔗 Share it with fellow Ionic or WordPress or mobile app developers
+- 🔗 Share it with fellow Ionic, WordPress, or mobile app developers
 - 💡 Contribute with feedback or pull requests
 
 > Together, we make WordPress more mobile-friendly and developer-first 🚀
