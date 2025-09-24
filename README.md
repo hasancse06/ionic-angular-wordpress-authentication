@@ -41,19 +41,9 @@ This project is perfect for:
    ```bash
    git@github.com:hasancse06/ionic-angular-wordpress-authentication.git
    cd ionic-angular-wordpress-authentication
+## Screenshot
 
-
-
-## 🧠 SEO Keywords
-
-> ionic angular wordpress login  
-> wordpress jwt login  
-> wordpress authentication mobile app  
-> ionic wordpress user login  
-> wordpress rest api login angular  
-> headless wordpress login ionic  
-> wordpress hybrid app login  
-> wordpress jwt ionic angular
+![Screenshot](authentication.jpg)
 
 
 ## 🙌 Author
